@@ -1,3 +1,1 @@
-I have created this form which has all the functionality of login and signup
-I have used react for fronend and node js for the backend and mongo db atlas for the database I am donig email validation using validator package and also hasing the password
-using bcryptjs . 
+I have created this form which has all the functionality of login and signup I have used react for frontend and node js for the backend and mongo dB atlas for the database I am doing email validation using validator package and also hashing the password using bcryptjs . 
